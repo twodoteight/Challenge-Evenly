@@ -1,7 +1,7 @@
 # Challenge-Evenly
 A coding challenge for Android development
 
-Simple application that lists nearby places around given coordinates. User can view a place's details, see it on the map and share a link to the its Foursquare page.
+Simple application that lists nearby places around given coordinates. User can view a place's details, see it on the map and share a link to its Foursquare page.
 
 Used Libraries:
 
