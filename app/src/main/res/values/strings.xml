@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Challenge Evenly</string>
+    <string name="foursquare_api_key">fsq3iA02tmuBWON3iu9nejSyGDIOScb8BZvSYN3SLPFD62I=</string>
+    <string name="generic_error">ERROR!=</string>
+    <string name="text_view_placeholder">Placeholder</string>
+    <string name="button_share_link">Share</string>
+    <string name="place_category_icon">Place Category Icon</string>
+    <string name="no_address_text">No Address</string>
+</resources>
