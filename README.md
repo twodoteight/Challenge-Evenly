@@ -7,6 +7,7 @@ Used Libraries:
 
 - Dagger-Hilt for dependency injection
 - Retrofit / OkHttp3 for network handling
+- Glide for image retrieval
 
 APIs
 
