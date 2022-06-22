@@ -14,4 +14,4 @@ APIs
 - Google Maps
 - Foursquare Places API
 
-Used clean architecture principles as much as possible with clear sepration between presentation, domain, data layers.
+Used clean architecture principles as much as possible with clear separation between presentation, domain, data layers.
