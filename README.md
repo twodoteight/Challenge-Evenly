@@ -1,5 +1,5 @@
 # Challenge-Evenly
-A coding challenge for Android development.
+An Android application that uses Foursquare's Places API to show nearby places.
 
 Simple application that lists nearby places around given coordinates. User can view a place's details, see it on the map and share a link to its Foursquare page.
 
